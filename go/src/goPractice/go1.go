@@ -8,7 +8,7 @@ import (
 func main() {
 	testPrint := "Its worth a shot ;)"
 	fmt.Println("Heres to Learning Golang! ", testPrint)
-	arg := os.Args[1]
+	arg := 7
 	thirdFunction(secondFunction(), arg)
 }
 
