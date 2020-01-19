@@ -13,7 +13,7 @@ func main() {
 }
 
 func secondFunction() int {
-	testfuncvar := 9
+	testfuncvar := 11
 	return testfuncvar
 }
 
